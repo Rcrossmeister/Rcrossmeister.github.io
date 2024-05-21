@@ -20,7 +20,7 @@ redirect_from:
 # 👋 About Me
 Hi, I am Zijin Hong, currently a final-year undergraduate student pursuing a dual bachelor's degree in Applied Mathematics with Mathematics at Jinan University (JNU) and the University of Birmingham (UoB). I'm supervised by Prof. [Feiran Huang](https://scholar.google.com/citations?user=of1vcxsAAAAJ&hl) in JNU and work closely with Prof. [Xiao Huang](https://www4.comp.polyu.edu.hk/~xiaohuang/) and Dr. [Hao Chen](https://scholar.google.com/citations?user=7oeLWT0AAAAJ&hl) at The Hong Kong Polytechnic University (PolyU).
 
-My current research interests include large language models and their applications, information extraction, and code (SQL) generation. During my free time, I enjoy building custom mechanical keyboards and playing video games. Please feel free to reach me out!
+My current research interests include **large language models and their applications**, **information extraction**, and **code (SQL) generation**. During my free time, I enjoy customizing mechanical keyboards and playing video games. Please feel free to reach me out!
 
 # 🔥 News
 - *2024.05*: &nbsp;🎉🎉 Our paper  **"Towards Better Question Generation in QA-Based Event Extraction"** is accepted by ACL 2024.
@@ -59,4 +59,4 @@ My current research interests include large language models and their applicatio
 - *2023.02 - 2024.07*, Reseach Intern, Computing Communication Research@[Jinan University](https://english.jnu.edu.cn/), Guangzhou, China.
 - *2023.01 - 2023.02*, Algotithm Intern, WITMED Centre@[China Unicom](https://www.chinaunicom.com.hk/en/global/home.php), Guangzhou, China.
 - *2022.07 - 2022.09*, Research Intern, COG-12 NLP Group@[iFLYTEK Research](https://www.iflytek.com/en/), Guangzhou, China.
-- *2021.07 - 2022.01*, Data Analyst Intern, Data Centre @[AOF Data](http://www.aofidc.com/), Guangzhou, China.
+- *2021.07 - 2022.01*, Data Analyst Intern, Data Centre@[AOF Data](http://www.aofidc.com/), Guangzhou, China.
