@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zijin Hong"
   avatar           : "images/zijinhong.png"
-  bio              : "Lorem ipsum College"
+  bio              : 
   location         : "Guangzhou, China"
   employer         :
   pubmed           : 
