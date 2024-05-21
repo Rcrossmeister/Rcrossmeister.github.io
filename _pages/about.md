@@ -20,8 +20,7 @@ redirect_from:
 # 👋 About Me
 Hi, I am Zijin Hong, currently a final-year undergraduate student pursuing a dual bachelor's degree in Applied Mathematics with Mathematics at Jinan University (JNU) and the University of Birmingham (UoB). I'm supervised by Prof. Feiran Huang in JNU and work closely with Prof. Xiao Huang and Dr. Hao Chen at The Hong Kong Polytechnic University (PolyU).
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
+My current research interests include large language models and their applications, information extraction, and Text-to-SQL. During my free time, I enjoy building custom mechanical keyboards and playing video games.
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
