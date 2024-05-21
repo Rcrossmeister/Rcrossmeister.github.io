@@ -30,15 +30,17 @@ My current research interests include large language models and their applicatio
 
 - [Towards Better Question Generation in QA-Based Event Extraction](https://arxiv.org/abs/2405.10517)
 
-**Zijin Hong**, Jian Liu
+  **Zijin Hong**, Jian Liu
 
-*In Findings of the Association for Computational Linguistics: ACL 2024*
+  *In Findings of the Association for Computational Linguistics: ACL 2024*
 
 - [Knowledge-to-SQL: Enhancing SQL Generation with Data Expert LLM](https://arxiv.org/abs/2402.11517)
 
-**Zijin Hong**, Zheng Yuan, Hao Chen, Qinggang Zhang, Feiran Huang, Xiao Huang
+  **Zijin Hong**, Zheng Yuan, Hao Chen, Qinggang Zhang, Feiran Huang, Xiao Huang
 
-*In Findings of the Association for Computational Linguistics: ACL 2024*
+  *In Findings of the Association for Computational Linguistics: ACL 2024*
+
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
