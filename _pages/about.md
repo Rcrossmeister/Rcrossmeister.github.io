@@ -46,14 +46,17 @@ My current research interests include large language models and their applicatio
 - [Low-Resource Chinese Named Entity Recognition](https://github.com/Rcrossmeister/Small-SampleNER-Chinese)
 
 # 🎖 Honors and Awards
-- *2024.05* Second Class Graduates Scholarship, Jinan University
-- *2023.11* Second Class Scholarship, Jinan University
-- *2022.11* Excellent Leadership Scholarhip, Jinan University, University of Brimingham
-- *2022.11* Second Class Scholarship, Jinan University
+- *2024.05*, First Class Graduates Scholarship, Jinan University
+- *2023.11*, First Class Scholarship, Jinan University
+- *2022.11*, Excellent Leadership Scholarhip, Jinan University, University of Brimingham
+- *2022.11*, Second Class Scholarship, Jinan University
 
 # 📋 Services
 **Teaching Assistant**
 - *Fall 2023*, J4-2022114001 Data Mining, Jinan University
 
 # 💻 Experiences
-- *2019.05 - 2020.02*, Research Intern@[iFLYTEK Research](https://www.iflytek.com/en/), Guangzhou, China.
+- *2023.02 - 2024.07*, Reseach Intern, Computing Communication Research@[Jinan University](https://english.jnu.edu.cn/), Guangzhou, China.
+- *2023.01 - 2023.02*, Algotithm Intern, WITMED Centre@[China Unicom](https://www.chinaunicom.com.hk/en/global/home.php), Guangzhou, China.
+- *2022.07 - 2022.09*, Research Intern, COG-12 NLP Group@[iFLYTEK Research](https://www.iflytek.com/en/), Guangzhou, China.
+- *2021.07 - 2022.01*, Data Analyst Intern, Data Centre @[AOF Data](http://www.aofidc.com/), Guangzhou, China.
