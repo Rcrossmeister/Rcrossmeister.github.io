@@ -23,32 +23,35 @@ Hi, I am Zijin Hong, currently a final-year undergraduate student pursuing a dua
 My current research interests include large language models and their applications, information extraction, and code (SQL) generation. During my free time, I enjoy building custom mechanical keyboards and playing video games. Please feel free to reach me out!
 
 # 🔥 News
-- *2024.05*: &nbsp;🎉🎉 Our paper "Towards Better Question Generation in QA-Based Event Extraction" is accepted by ACL 2024.
-- *2024.05*: &nbsp;🎉🎉 Our paper "Knowledge-to-SQL: Enhancing SQL Generation with Data Expert LLM" is accepted by ACL 2024.
+- *2024.05*: &nbsp;🎉🎉 Our paper  **"Towards Better Question Generation in QA-Based Event Extraction"** is accepted by ACL 2024.
+- *2024.05*: &nbsp;🎉🎉 Our paper **"Knowledge-to-SQL: Enhancing SQL Generation with Data Expert LLM"** is accepted by ACL 2024.
 
 # 📝 Publications 
 
-- [Towards Better Question Generation in QA-Based Event Extraction](https://arxiv.org/abs/2405.10517)
+- [Towards Better Question Generation in QA-Based Event Extraction.](https://arxiv.org/abs/2405.10517)
 
   **Zijin Hong**, Jian Liu
 
   *In Findings of the Association for Computational Linguistics: ACL 2024*
 
-- [Knowledge-to-SQL: Enhancing SQL Generation with Data Expert LLM](https://arxiv.org/abs/2402.11517)
+- [Knowledge-to-SQL: Enhancing SQL Generation with Data Expert LLM.](https://arxiv.org/abs/2402.11517)
 
   **Zijin Hong**, Zheng Yuan, Hao Chen, Qinggang Zhang, Feiran Huang, Xiao Huang
 
   *In Findings of the Association for Computational Linguistics: ACL 2024*
 
+# ⚒️ Projects
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.05* Second Class Graduates Scholarship, Jinan University
+- *2023.11* Second Class Scholarship, Jinan University
+- *2022.11* Excellent Leadership Scholarhip, Jinan University, University of Brimingham
+- *2022.11* Second Class Scholarship, Jinan University
 
 # 📋 Services
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+**Teaching Assistant**
+- *Fall 2023*, J4-2022114001 Data Mining, Jinan University
 
-# 💻 Internships
+# 💻 Experiences
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
