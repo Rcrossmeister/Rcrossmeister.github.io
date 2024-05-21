@@ -41,7 +41,9 @@ My current research interests include large language models and their applicatio
   *In Findings of the Association for Computational Linguistics: ACL 2024*
 
 # ⚒️ Projects
-
+- [Double Encoder Seq2Seq-Based Presidential Concept Stock Price Prediction Model](https://github.com/Rcrossmeister/DES-PSP)
+- [Dual-Path Attention-Based Text Sentiment Analysis Model with Summarization](https://github.com/Rcrossmeister/DuPa-ASA)
+- [Low-Resource Chinese Named Entity Recognition](https://github.com/Rcrossmeister/Small-SampleNER-Chinese)
 
 # 🎖 Honors and Awards
 - *2024.05* Second Class Graduates Scholarship, Jinan University
@@ -54,4 +56,4 @@ My current research interests include large language models and their applicatio
 - *Fall 2023*, J4-2022114001 Data Mining, Jinan University
 
 # 💻 Experiences
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2019.05 - 2020.02*, Research Intern@[iFLYTEK Research](https://www.iflytek.com/en/), Guangzhou, China.
