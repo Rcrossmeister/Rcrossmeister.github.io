@@ -29,7 +29,7 @@ My current research interests include **large language models and their applicat
 
 # 📝 Publications 
 
-- [Towards Better Question Generation in QA-Based Event Extraction](https://arxiv.org/abs/2405.10517)
+- [Towards Better Question Generation in QA-based Event Extraction](https://arxiv.org/abs/2405.10517)
 
   **Zijin Hong**, Jian Liu
 
