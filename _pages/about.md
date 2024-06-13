@@ -23,11 +23,17 @@ Hi, I am Zijin Hong, currently a final-year undergraduate student pursuing a dua
 My current research interests include **large language models and their applications**, **information extraction**, and **code (SQL) generation**. During my free time, I enjoy customizing mechanical keyboards and playing video games. Please feel free to reach me out!
 
 # 🔥 News
-- *2024.06*: 🔥🔥 The camera-ready version of our ACL papers are released.
+- *2024.06*: 🔥🔥 Our survey, **"Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL"**, has been released. Take a look!
 - *2024.05*: &nbsp;🎉🎉 Our paper  **"Towards Better Question Generation in QA-Based Event Extraction"** is accepted by ACL 2024.
 - *2024.05*: &nbsp;🎉🎉 Our paper **"Knowledge-to-SQL: Enhancing SQL Generation with Data Expert LLM"** is accepted by ACL 2024.
 
 # 📝 Publications 
+
+- [Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL](https://arxiv.org/abs/2406.08426)
+
+  **Zijin Hong**, Zheng Yuan, Qinggang Zhang, Hao Chen, Junnan Dong, Feiran Huang, Xiao Huang
+
+  *arXiv Preprint*
 
 - [Towards Better Question Generation in QA-based Event Extraction](https://arxiv.org/abs/2405.10517)
 
@@ -55,6 +61,7 @@ My current research interests include **large language models and their applicat
 
 # 📋 Services
 **Teaching Assistant**
+
 - *Fall 2023*, J4-2022114001 Data Mining, Jinan University
 
 # 💻 Experiences
