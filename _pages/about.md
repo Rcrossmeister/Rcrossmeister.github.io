@@ -53,6 +53,7 @@ My current research interests include **large language models and their applicat
 - [Low-Resource Chinese Named Entity Recognition](https://github.com/Rcrossmeister/Small-SampleNER-Chinese)
 
 # 🎖 Honors and Awards
+- *2024.07*, Outstanding Undergraduate Thesis, Jinan University
 - *2024.06*, Outstanding Graduate, Jinan University
 - *2024.05*, First Class Graduates Scholarship, Jinan University
 - *2023.11*, First Class Scholarship, Jinan University
