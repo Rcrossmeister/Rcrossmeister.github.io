@@ -62,6 +62,11 @@ My current research interests include **large language models and their applicat
 - *2022.11*, Second Class Scholarship, Jinan University
 
 # 📋 Services
+
+**Reviewer**
+
+* ACL Rolling Review 2024
+
 **Teaching Assistant**
 
 - *Fall 2023*, J4-2022114001 Data Mining, Jinan University
