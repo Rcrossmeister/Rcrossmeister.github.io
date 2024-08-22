@@ -67,6 +67,10 @@ My current research interests include **large language models and their applicat
 
 * ACL Rolling Review 2024
 
+**Journal Reviewer**
+
+* TKDE
+
 **Teaching Assistant**
 
 - *Fall 2023*, J4-2022114001 Data Mining, Jinan University
