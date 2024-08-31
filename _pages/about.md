@@ -69,7 +69,7 @@ My current research interests include **large language models and their applicat
 
 **Journal Reviewer**
 
-* TKDE
+* IEEE TKDE (Since 2024)
 
 **Teaching Assistant**
 
