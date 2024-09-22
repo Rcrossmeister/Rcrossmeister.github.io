@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zijin Hong"
-description              : "Undergraduate Student at Jinan Univerisity"
+description              : "Research Intern at Reallm Labs Limited"
 repository               : "Rcrossmeister/Rcrossmeister.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,7 @@ author:
   name             : "Zijin Hong"
   avatar           : "images/zijinhong.png"
   bio              : 
-  location         : "Guangzhou, China"
+  location         : "Hong Kong SAR, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=1zNPXwQAAAAJ&hl"
