@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👋 About Me
-Hi, I am Zijin Hong, currently a research intern at Reallm Labs lead by Prof. [Hongxia Yang](https://www4.comp.polyu.edu.hk/~hongxyang/). I received a dual bachelor's degree in Applied Mathematics with Mathematics at Jinan University (JNU) and the University of Birmingham (UoB). I'm supervised by Prof. [Feiran Huang](https://scholar.google.com/citations?user=of1vcxsAAAAJ&hl) in JNU and work closely with Prof. [Xiao Huang](https://www4.comp.polyu.edu.hk/~xiaohuang/) and Dr. [Hao Chen](https://scholar.google.com/citations?user=7oeLWT0AAAAJ&hl) at The Hong Kong Polytechnic University (PolyU).
+Hi, I am Zijin Hong, currently a research assistant at Computing Communication Research, Jinan University lead by Prof. [Feiran Huang](https://scholar.google.com/citations?user=of1vcxsAAAAJ&hl). I received a dual bachelor's degree in Applied Mathematics with Mathematics at Jinan University (JNU) and the University of Birmingham (UoB). I'm supervised by Prof. [Feiran Huang](https://scholar.google.com/citations?user=of1vcxsAAAAJ&hl) in JNU and work closely with Prof. [Xiao Huang](https://www4.comp.polyu.edu.hk/~xiaohuang/) and Dr. [Hao Chen](https://scholar.google.com/citations?user=7oeLWT0AAAAJ&hl) at The Hong Kong Polytechnic University (PolyU).
 
 My current research interests include **large language models and their applications**, **information extraction**, and **code (SQL) generation**. During my free time, I enjoy customizing mechanical keyboards and playing video games. Please feel free to reach me out!
 
@@ -79,7 +79,7 @@ My current research interests include **large language models and their applicat
 
 # 💻 Experiences
 - *2024.08 - 2025.01*, Reseach Intern, LLM-Eval Group@[Reallm Labs](), Hong Kong SAR, China.
-- *2023.02 - 2024.07*, Reseach Intern, Computing Communication Research@[Jinan University](https://english.jnu.edu.cn/), Guangzhou, China.
+- *2023.02 - 2025.01*, Reseach Assistant, Computing Communication Research@[Jinan University](https://english.jnu.edu.cn/), Guangzhou, China.
 - *2023.01 - 2023.02*, Algotithm Intern, WITMED Centre@[China Unicom](https://www.chinaunicom.com.hk/en/global/home.php), Guangzhou, China.
 - *2022.07 - 2022.09*, Research Intern, COG-12 NLP Group@[iFLYTEK Research](https://www.iflytek.com/en/), Guangzhou, China.
 - *2021.07 - 2022.01*, Data Analyst Intern, Data Centre@[AOF Data](http://www.aofidc.com/), Guangzhou, China.
