@@ -18,11 +18,12 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👋 About Me
-Hi, I am Zijin Hong, currently a research assistant at Computing Communication Research, Jinan University lead by Prof. [Feiran Huang](https://scholar.google.com/citations?user=of1vcxsAAAAJ&hl). I received a dual bachelor's degree in Applied Mathematics with Mathematics at Jinan University (JNU) and the University of Birmingham (UoB). I'm supervised by Prof. [Feiran Huang](https://scholar.google.com/citations?user=of1vcxsAAAAJ&hl) in JNU and work closely with Prof. [Xiao Huang](https://www4.comp.polyu.edu.hk/~xiaohuang/) and Dr. [Hao Chen](https://scholar.google.com/citations?user=7oeLWT0AAAAJ&hl) at The Hong Kong Polytechnic University (PolyU).
+Hi, I am Zijin Hong, currently an incoming MPhil student at [DEEPLab](https://www4.comp.polyu.edu.hk/~xiaohuang/deeplab.html), the Hong Kong Polytechnic University (PolyU) supervised by Prof. [Xiao Huang](https://www4.comp.polyu.edu.hk/~xiaohuang/). I received a dual bachelor's degree in Applied Mathematics with Mathematics at Jinan University (JNU) and the University of Birmingham (UoB). I'm supervised by Prof. [Feiran Huang](https://scholar.google.com/citations?user=of1vcxsAAAAJ&hl) in JNU and work closely with Dr. [Hao Chen](https://scholar.google.com/citations?user=7oeLWT0AAAAJ&hl) at PolyU.
 
 My current research interests include **large language models and their applications**, **information extraction**, and **code (SQL) generation**. During my free time, I enjoy customizing mechanical keyboards and playing video games. Please feel free to reach me out!
 
 # 🔥 News
+
 - *2024.09*: 📖📖 Invited as the reviewer for **ICLR 2025**.
 - *2024.08*: 📖📖 Invited as the reviewer for **IEEE TKDE** since Aug. 2024.
 - *2024.07*: 🔥🔥 My thesis **"Learning with Database's Preference in Text-to-SQL For Large Language Models"** was awarded as Outstanding Undergraduate Thesis by Jinan University.
