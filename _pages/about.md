@@ -24,6 +24,8 @@ My current research interests include **large language models and their applicat
 
 # 🔥 News
 
+* *2024.10*: 🔥🔥We release **CLR-Bench**, a benchmark to evaluate the reasoning abilities of LLMs at the college level.
+
 - *2024.09*: 📖📖 Invited as the reviewer for **ICLR 2025**.
 - *2024.08*: 📖📖 Invited as the reviewer for **IEEE TKDE** since Aug. 2024.
 - *2024.07*: 🔥🔥 My thesis **"Learning with Database's Preference in Text-to-SQL For Large Language Models"** was awarded as Outstanding Undergraduate Thesis by Jinan University.
@@ -32,6 +34,12 @@ My current research interests include **large language models and their applicat
 - *2024.05*: &nbsp;🎉🎉 Our paper **"Knowledge-to-SQL: Enhancing SQL Generation with Data Expert LLM"** is accepted by ACL 2024.
 
 # 📝 Publications 
+
+* [CLR-Bench: Evaluating Large Language Models in College-level Reasoning](https://arxiv.org/abs/2410.17558)
+
+  Junnan Dong, **Zijin Hong**, Yuanchen Bei, Feiran Huang, Xinrun Wang, Xiao Huang
+
+  *arXiv Preprint*
 
 - [Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL](https://arxiv.org/abs/2406.08426)
 
