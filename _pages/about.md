@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👋 About Me
-Hi, I am Zijin Hong, an incoming PhD student at [DEEPLab](https://www4.comp.polyu.edu.hk/~xiaohuang/deeplab.html) at The Hong Kong Polytechnic University (PolyU), under the supervision of Prof. [Xiao Huang](https://www4.comp.polyu.edu.hk/~xiaohuang/). I received a dual bachelor's degree in Applied Mathematics with Mathematics from Jinan University (JNU) and the University of Birmingham (UoB). I was supervised by Prof. [Feiran Huang](https://scholar.google.com/citations?user=of1vcxsAAAAJ&hl) at JNU and worked closely with Dr. [Hao Chen](https://scholar.google.com/citations?user=7oeLWT0AAAAJ&hl) at PolyU.
+Hi, I am Zijin Hong, an incoming MPhil student at [DEEPLab](https://www4.comp.polyu.edu.hk/~xiaohuang/deeplab.html) at The Hong Kong Polytechnic University (PolyU), under the supervision of Prof. [Xiao Huang](https://www4.comp.polyu.edu.hk/~xiaohuang/). I received a dual bachelor's degree in Applied Mathematics with Mathematics from Jinan University (JNU) and the University of Birmingham (UoB). I was supervised by Prof. [Feiran Huang](https://scholar.google.com/citations?user=of1vcxsAAAAJ&hl) at JNU and worked closely with Dr. [Hao Chen](https://scholar.google.com/citations?user=7oeLWT0AAAAJ&hl) at PolyU.
 
 My current research interests include **large language models and their applications**, **information extraction**, and **code (SQL) generation**. During my free time, I enjoy customizing mechanical keyboards and playing video games. Please feel free to reach me out!
 
