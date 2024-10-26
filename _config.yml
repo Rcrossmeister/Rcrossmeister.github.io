@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+hai# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zijin Hong"
-description              : "MPhil Student at The Hong Kong Polytechnic University"
+description              : "PhD Student at The Hong Kong Polytechnic University"
 repository               : "Rcrossmeister/Rcrossmeister.github.io"
 google_scholar_stats_use_cdn : true
 
