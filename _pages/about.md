@@ -22,7 +22,7 @@ Hi, I am Zijin Hong, an incoming MPhil student at [DEEPLab](https://www4.comp.po
 
 My current research interests include **large language models and their applications**, **information extraction**, and **code (SQL) generation**. During my free time, I enjoy customizing mechanical keyboards and playing video games. Please feel free to reach me out!
 
-📧 zijin[dot]hong[at]connect.polyu.hk
+📧 zijin[dot]hong[at]connect[dot]polyu[dot]hk
 
 # 🔥 News
 
