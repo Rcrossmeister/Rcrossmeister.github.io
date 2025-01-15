@@ -86,7 +86,7 @@ My current research interests include **large language models and their applicat
 - *2024.06*, Outstanding Graduate, Jinan University
 - *2024.05*, First Class Graduates Scholarship, Jinan University
 - *2023.11*, First Class Scholarship, Jinan University
-- *2022.11*, Outstanding Leadership Scholarhip, Jinan University, University of Brimingham
+- *2022.11*, Outstanding Leadership Scholarhip, University of Brimingham
 - *2022.11*, Second Class Scholarship, Jinan University
 
 # 📋 Services
@@ -101,11 +101,13 @@ My current research interests include **large language models and their applicat
 
 **Teaching Assistant**
 
+- *Spring 2025*, COMP5423 Natural Language Processing, The Hong Kong Polytechnic University
 - *Fall 2023*, J4-2022114001 Data Mining, Jinan University
+- *Spring 2023*, J3GTMDM-32698 Game Theory & Multicriteria Decision Making, University of Birmingham
 
 # 💻 Experiences
-- *2024.08 - 2025.01*, Reseach Intern, LLM-Eval Group@[Reallm Labs](), Advisor: [Hongxia Yang](), Hong Kong SAR, China.
+- *2024.08 - 2025.01*, Reseach Intern, LLM-Eval Group@[Reallm Labs](), Advisor: [Hongxia Yang](https://www4.comp.polyu.edu.hk/~hongxyang/), Hong Kong SAR, China.
 - *2023.02 - 2025.01*, Reseach Assistant, Computing Communication Research@[Jinan University](https://english.jnu.edu.cn/), Advisor: [Feiran Huang](https://faculty.jnu.edu.cn/xxkxjsxy/hfr2/list.htm), Guangzhou, China.
 - *2023.01 - 2023.02*, Algotithm Intern, WITMED Centre@[China Unicom](https://www.chinaunicom.com.hk/en/global/home.php), Guangzhou, China.
-- *2022.07 - 2022.09*, Research Intern, COG-12 NLP Group@[iFLYTEK Research](https://www.iflytek.com/en/about-us/about.html), Advisor: [Guanghui Xu](https://scholar.google.com/citations?user=Nh-fA4gAAAAJ&hl), Guangzhou, China.
+- *2022.07 - 2022.09*, Research Intern, COG-12 NLP Group@[iFLYTEK Research](https://www.iflytek.com/en/about-us/about.html), Mentor: [Guanghui Xu](https://scholar.google.com/citations?user=Nh-fA4gAAAAJ&hl), Guangzhou, China.
 - *2021.07 - 2022.01*, Data Analyst Intern, Data Centre@[AOF Data](http://www.aofidc.com/), Guangzhou, China.
