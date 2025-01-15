@@ -103,7 +103,7 @@ My current research interests include **large language models and their applicat
 
 - *Spring 2025*, COMP5423 Natural Language Processing, The Hong Kong Polytechnic University
 - *Fall 2023*, J4-2022114001 Data Mining, Jinan University
-- *Spring 2023*, J3GTMDM-32698 Game Theory & Multicriteria Decision Making, University of Birmingham
+- *Spring 2023*, J3GTMDM-32698 Game Theory and Multicriteria Decision Making, University of Birmingham
 
 # 💻 Experiences
 - *2024.08 - 2025.01*, Reseach Intern, LLM-Eval Group@[Reallm Labs](), Advisor: [Hongxia Yang](https://www4.comp.polyu.edu.hk/~hongxyang/), Hong Kong SAR, China.
