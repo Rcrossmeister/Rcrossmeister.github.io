@@ -100,7 +100,6 @@ My current research interests include **large language models and their applicat
 
 **Teaching Assistant**
 
-- *Spring 2025*, COMP Data Mining, Jinan University
 - *Fall 2023*, J4-2022114001 Data Mining, Jinan University
 
 # 💻 Experiences
