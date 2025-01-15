@@ -27,8 +27,8 @@ My current research interests include **large language models and their applicat
 # 🔥 News
 
 * *2025.01*: 📢📢 I join the **PolyU** to start my Ph.D. journey!
-* *2024.11*: 🔥🔥We release **HNCSE**, a novel approach to improving unsupervised sentence embedding.
-* *2024.10*: 🔥🔥We release **CLR-Bench**, a benchmark to evaluate the reasoning abilities of LLMs at the college level.
+* *2024.11*: 🔥🔥 We release **HNCSE**, a novel approach to improving unsupervised sentence embedding.
+* *2024.10*: 🔥🔥 We release **CLR-Bench**, a benchmark to evaluate the reasoning abilities of LLMs at the college level.
 
 - *2024.09*: 📖📖 Invited as the reviewer for **ICLR 2025**.
 - *2024.08*: 📖📖 Invited as the reviewer for **IEEE TKDE** since Aug. 2024.
