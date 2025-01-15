@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👋 About Me
-Hi, I am Zijin Hong, an Ph.D. student at [DEEPLab](https://www4.comp.polyu.edu.hk/~xiaohuang/deeplab.html) at The Hong Kong Polytechnic University (PolyU), under the supervision of Prof. [Xiao Huang](https://www4.comp.polyu.edu.hk/~xiaohuang/). I received a dual bachelor's degree in Applied Mathematics with Mathematics from Jinan University (JNU) and the University of Birmingham (UoB). I was fortunately supervised by Prof. [Feiran Huang](https://scholar.google.com/citations?user=of1vcxsAAAAJ&hl) at JNU and worked closely with Dr. [Hao Chen](https://scholar.google.com/citations?user=7oeLWT0AAAAJ&hl) at CityU.
+Hi, I am Zijin Hong, a first-year Ph.D. student at [DEEPLab](https://www4.comp.polyu.edu.hk/~xiaohuang/deeplab.html) at The Hong Kong Polytechnic University (PolyU), under the supervision of Prof. [Xiao Huang](https://www4.comp.polyu.edu.hk/~xiaohuang/). I received a dual bachelor's degree in Applied Mathematics with Mathematics from Jinan University (JNU) and the University of Birmingham (UoB). I was fortunately supervised by Prof. [Feiran Huang](https://scholar.google.com/citations?user=of1vcxsAAAAJ&hl) at JNU and worked closely with Dr. [Hao Chen](https://scholar.google.com/citations?user=7oeLWT0AAAAJ&hl) at CityU.
 
 My current research interests include **large language models and their applications**, **information extraction**, and **code (SQL) generation**. During my free time, I enjoy customizing mechanical keyboards and playing video games. Please feel free to reach me out!
 
@@ -26,12 +26,13 @@ My current research interests include **large language models and their applicat
 
 # 🔥 News
 
+* *2025.01*: 📢📢 I join the **PolyU** to start my Ph.D. journey!
 * *2024.11*: 🔥🔥We release **HNCSE**, a novel approach to improving unsupervised sentence embedding.
 * *2024.10*: 🔥🔥We release **CLR-Bench**, a benchmark to evaluate the reasoning abilities of LLMs at the college level.
 
 - *2024.09*: 📖📖 Invited as the reviewer for **ICLR 2025**.
 - *2024.08*: 📖📖 Invited as the reviewer for **IEEE TKDE** since Aug. 2024.
-- *2024.07*: 🔥🔥 My thesis **"Learning with Database's Preference in Text-to-SQL For Large Language Models"** was awarded as Outstanding Undergraduate Thesis by Jinan University.
+- *2024.07*: 📢📢 My thesis **"Learning with Database's Preference in Text-to-SQL For Large Language Models"** was awarded as Outstanding Undergraduate Thesis.
 - *2024.06*: 🔥🔥 Our survey **"Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL"** has been released. Take a look!
 - *2024.05*: &nbsp;🎉🎉 Our paper  **"Towards Better Question Generation in QA-based Event Extraction"** is accepted by ACL 2024.
 - *2024.05*: &nbsp;🎉🎉 Our paper **"Knowledge-to-SQL: Enhancing SQL Generation with Data Expert LLM"** is accepted by ACL 2024.
@@ -99,6 +100,7 @@ My current research interests include **large language models and their applicat
 
 **Teaching Assistant**
 
+- *Spring 2025*, COMP Data Mining, Jinan University
 - *Fall 2023*, J4-2022114001 Data Mining, Jinan University
 
 # 💻 Experiences
