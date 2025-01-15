@@ -39,6 +39,12 @@ My current research interests include **large language models and their applicat
 
 # 📝 Publications 
 
+* [Benchmarking Large Language Models via Random Variables]()
+
+  **Zijin Hong**, Hao Wu, Su Dong, Junnan Dong, Yilin Xiao, Yujing Zhang, Zhu Wang, Feiran Huang, Linyi Li, Hongxia Yang, Xiao Huang
+
+  *arXiv Preprint*
+
 * [HNCSE: Advancing Sentence Embeddings via Hybrid Contrastive Learning with Hard Negatives](https://arxiv.org/abs/2411.12156)
 
   Wenxiao Liu, Zihong Yang, Chaozhuo Li, **Zijin Hong**, Jianfeng Ma, Zhiquan Liu, Litian Zhang, Feiran Huang
