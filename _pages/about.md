@@ -107,7 +107,6 @@ My current research interests include **large language models and their applicat
 
 **Teaching Assistant**
 
-- *Spring 2025*, COMP5423 Natural Language Processing, The Hong Kong Polytechnic University
 - *Fall 2023*, J4-2022114001 Data Mining, Jinan University
 - *Spring 2023*, J3GTMDM-32698 Game Theory and Multicriteria Decision Making, University of Birmingham
 
