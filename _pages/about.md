@@ -40,7 +40,7 @@ My current research interests include **large language models and their applicat
 
 # 📝 Publications 
 
-* [Benchmarking Large Language Models via Random Variables](https://arxiv.org/pdf/2501.11790)
+* [Benchmarking Large Language Models via Random Variables](https://arxiv.org/abs/2501.11790)
 
   **Zijin Hong**, Hao Wu, Su Dong, Junnan Dong, Yilin Xiao, Yujing Zhang, Zhu Wang, Feiran Huang, Linyi Li, Hongxia Yang, Xiao Huang
 
