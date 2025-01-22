@@ -26,6 +26,7 @@ My current research interests include **large language models and their applicat
 
 # 🔥 News
 
+* *2025.01*: 🔥🔥 We release **RV-Bench** to benchmark LLMs' genuine mathematical reasoning capabilities through **random variable questions**.
 * *2025.01*: 📢📢 I join the **PolyU** to start my Ph.D. journey!
 * *2024.11*: 🔥🔥 We release **HNCSE**, a novel approach to improving unsupervised sentence embedding.
 * *2024.10*: 🔥🔥 We release **CLR-Bench**, a benchmark to evaluate the reasoning capabilities of LLMs at the college level.
@@ -39,7 +40,7 @@ My current research interests include **large language models and their applicat
 
 # 📝 Publications 
 
-* [Benchmarking Large Language Models via Random Variables]()
+* [Benchmarking Large Language Models via Random Variables](https://arxiv.org/pdf/2501.11790)
 
   **Zijin Hong**, Hao Wu, Su Dong, Junnan Dong, Yilin Xiao, Yujing Zhang, Zhu Wang, Feiran Huang, Linyi Li, Hongxia Yang, Xiao Huang
 
