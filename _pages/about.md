@@ -26,6 +26,7 @@ My current research interests include **large language models and their applicat
 
 # 🔥 News
 
+* *2025.02*: 🔥🔥 Our graph-RAG survey **"A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models"** has been released. Take a look!
 * *2025.01*: 🔥🔥 We release **RV-Bench** to benchmark LLMs' genuine mathematical reasoning capabilities through **random variable questions**.
 * *2025.01*: 📢📢 I join the **PolyU** to start my Ph.D. journey!
 * *2024.11*: 🔥🔥 We release **HNCSE**, a novel approach to improving unsupervised sentence embedding.
@@ -34,11 +35,17 @@ My current research interests include **large language models and their applicat
 - *2024.09*: 📖📖 Invited as the reviewer for **ICLR 2025**.
 - *2024.08*: 📖📖 Invited as the reviewer for **IEEE TKDE** since Aug. 2024.
 - *2024.07*: 📢📢 My thesis **"Learning with Database's Preference in Text-to-SQL for Large Language Models"** was awarded as Outstanding Undergraduate Thesis.
-- *2024.06*: 🔥🔥 Our survey **"Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL"** has been released. Take a look!
+- *2024.06*: 🔥🔥 Our text-to-SQL survey **"Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL"** has been released. Take a look!
 - *2024.05*: &nbsp;🎉🎉 Our paper  **"Towards Better Question Generation in QA-based Event Extraction"** is accepted by ACL 2024.
 - *2024.05*: &nbsp;🎉🎉 Our paper **"Knowledge-to-SQL: Enhancing SQL Generation with Data Expert LLM"** is accepted by ACL 2024.
 
 # 📝 Publications 
+
+* [A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models](https://arxiv.org/abs/2501.13958)
+
+  Qinggang Zhang, Shengyuan Chen, Yuanchen Bei, Zheng Yuan, Huachi Zhou, **Zijin Hong**, Junnan Dong, Hao Chen, Yi Chang, Xiao Huang
+
+  *arXiv Preprint*
 
 * [Benchmarking Large Language Models via Random Variables](https://arxiv.org/abs/2501.11790)
 
