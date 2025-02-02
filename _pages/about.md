@@ -91,6 +91,8 @@ My current research interests include **large language models and their applicat
 
 # ⚒️ Projects
 - [Awesome-GraphRAG](https://github.com/DEEP-PolyU/Awesome-GraphRAG) [![GitHub Repo stars](https://img.shields.io/github/stars/DEEP-PolyU/Awesome-GraphRAG?style=social)](https://github.com/DEEP-PolyU/Awesome-GraphRAG)
+- [Knowledge-to-SQL](https://github.com/Rcrossmeister/Knowledge-to-SQL) [![GitHub Repo stars](https://img.shields.io/github/stars/Rcrossmeister/Knowledge-to-SQL?style=social)](https://github.com/Rcrossmeister/RLQG)
+- [RLQG](https://github.com/Rcrossmeister/RLQG) [![GitHub Repo stars](https://img.shields.io/github/stars/Rcrossmeister/RLQG?style=social)](https://github.com/Rcrossmeister/RLQG)
 - [Double Encoder Seq2Seq-Based Presidential Concept Stock Price Prediction Model](https://github.com/Rcrossmeister/DES-PSP)
 - [Dual-Path Attention-Based Text Sentiment Analysis Model with Summarization](https://github.com/Rcrossmeister/DuPa-ASA)
 - [Low-Resource Chinese Named Entity Recognition](https://github.com/Rcrossmeister/Small-SampleNER-Chinese)
