@@ -109,7 +109,7 @@ My current research interests include **large language models and their applicat
 
 **Conference Reviewer**
 
-* ICLR 2025, ACL Rolling Review (ARR) 2024
+* ICLR 2025, ACL Rolling Review (ARR) 2024 2025
 
 **Journal Reviewer**
 
@@ -117,8 +117,9 @@ My current research interests include **large language models and their applicat
 
 **Teaching Assistant**
 
-- *Fall 2023*, J4-2022114001 Data Mining, Jinan University
-- *Spring 2023*, J3GTMDM-32698 Game Theory and Multicriteria Decision Making, University of Birmingham
+- *Spring 2025*, COMP1004 Introduction to Artificial Intelligence and Data Analytics, PolyU
+- *Fall 2023*, J4-2022114001 Data Mining, JNU
+- *Spring 2023*, J3GTMDM-32698 Game Theory and Multicriteria Decision Making, UoB
 
 # 💻 Experiences
 - *2024.08 - 2025.01*, Reseach Intern, LLM-Eval Group@[Reallm Labs](https://huggingface.co/Reallm-Labs), Advisor: [Hongxia Yang](https://www4.comp.polyu.edu.hk/~hongxyang/), Hong Kong SAR, China.
