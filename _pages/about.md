@@ -44,9 +44,8 @@ My current research interests include **large language models and their applicat
   <details>
     <summary>📰📰 History News</summary>
 
-
-    - *2024.05*: &nbsp;🎉🎉 Our paper **"Towards Better Question Generation in QA-based Event Extraction"** is accepted by ACL 2024.
-    - *2024.05*: &nbsp;🎉🎉 Our paper **"Knowledge-to-SQL: Enhancing SQL Generation with Data Expert LLM"** is accepted by ACL 2024.
+    - *2024.05*: 🎉🎉 Our paper **"Towards Better Question Generation in QA-based Event Extraction"** is accepted by ACL 2024.
+    - *2024.05*: 🎉🎉 Our paper **"Knowledge-to-SQL: Enhancing SQL Generation with Data Expert LLM"** is accepted by ACL 2024.
 
   </details>
 
