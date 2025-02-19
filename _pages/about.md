@@ -33,17 +33,21 @@ My current research interests include **large language models and their applicat
 * *2024.10*: 🔥🔥 We release **CLR-Bench**, a benchmark to evaluate the reasoning capabilities of LLMs at the college level.
 
 - *2024.09*: 📖📖 Invited as the reviewer for **ICLR 2025**.
+
 - *2024.08*: 📖📖 Invited as the reviewer for **IEEE TKDE** since Aug. 2024.
+
 - *2024.07*: 📢📢 My thesis **"Learning with Database's Preference in Text-to-SQL for Large Language Models"** was awarded as Outstanding Undergraduate Thesis.
+
 - *2024.06*: 🔥🔥 Our text-to-SQL survey **"Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL"** has been released. Take a look!
 
-<details>
-  <summary>History News</summary>
+  <details>
+    <summary>History News</summary>
 
-  - *2024.05*: &nbsp;🎉🎉 Our paper **"Towards Better Question Generation in QA-based Event Extraction"** is accepted by ACL 2024.
-  - *2024.05*: &nbsp;🎉🎉 Our paper **"Knowledge-to-SQL: Enhancing SQL Generation with Data Expert LLM"** is accepted by ACL 2024.
 
-</details>
+    - *2024.05*: &nbsp;🎉🎉 Our paper **"Towards Better Question Generation in QA-based Event Extraction"** is accepted by ACL 2024.
+    - *2024.05*: &nbsp;🎉🎉 Our paper **"Knowledge-to-SQL: Enhancing SQL Generation with Data Expert LLM"** is accepted by ACL 2024.
+
+  </details>
 
 # 📝 Publications 
 
