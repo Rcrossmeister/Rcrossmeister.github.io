@@ -36,10 +36,22 @@ My current research interests include **large language models and their applicat
 - *2024.08*: 📖📖 Invited as the reviewer for **IEEE TKDE** since Aug. 2024.
 - *2024.07*: 📢📢 My thesis **"Learning with Database's Preference in Text-to-SQL for Large Language Models"** was awarded as Outstanding Undergraduate Thesis.
 - *2024.06*: 🔥🔥 Our text-to-SQL survey **"Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL"** has been released. Take a look!
-- *2024.05*: &nbsp;🎉🎉 Our paper  **"Towards Better Question Generation in QA-based Event Extraction"** is accepted by ACL 2024.
-- *2024.05*: &nbsp;🎉🎉 Our paper **"Knowledge-to-SQL: Enhancing SQL Generation with Data Expert LLM"** is accepted by ACL 2024.
+
+<details>
+  <summary>History News</summary>
+
+  - *2024.05*: &nbsp;🎉🎉 Our paper **"Towards Better Question Generation in QA-based Event Extraction"** is accepted by ACL 2024.
+  - *2024.05*: &nbsp;🎉🎉 Our paper **"Knowledge-to-SQL: Enhancing SQL Generation with Data Expert LLM"** is accepted by ACL 2024.
+
+</details>
 
 # 📝 Publications 
+
+* [Knapsack Optimization-based Schema Linking for LLM-based Text-to-SQL Generation](https://arxiv.org/abs/2502.12911)
+
+  Zheng Yuan, Hao Chen, **Zijin Hong**, Qinggang Zhang, Feiran Huang, Xiao Huang
+
+  *arXiv Preprint*
 
 * [A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models](https://arxiv.org/abs/2501.13958)
 
