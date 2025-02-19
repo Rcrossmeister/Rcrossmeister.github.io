@@ -26,6 +26,7 @@ My current research interests include **large language models and their applicat
 
 # 🔥 News
 
+* *2025.01*: 🔥🔥 We release **RV-Bench** to benchmark LLMs' genuine mathematical reasoning capabilities through **random variable questions**.
 * *2025.02*: 🔥🔥 Our graph-RAG survey **"A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models"** has been released. Take a look!
 * *2025.01*: 🔥🔥 We release **RV-Bench** to benchmark LLMs' genuine mathematical reasoning capabilities through **random variable questions**.
 * *2025.01*: 📢📢 I join the **PolyU** to start my Ph.D. journey!
@@ -41,7 +42,7 @@ My current research interests include **large language models and their applicat
 - *2024.06*: 🔥🔥 Our text-to-SQL survey **"Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL"** has been released. Take a look!
 
   <details>
-    <summary>History News</summary>
+    <summary>📰📰 History News</summary>
 
 
     - *2024.05*: &nbsp;🎉🎉 Our paper **"Towards Better Question Generation in QA-based Event Extraction"** is accepted by ACL 2024.
