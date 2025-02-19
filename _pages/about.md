@@ -26,7 +26,7 @@ My current research interests include **large language models and their applicat
 
 # 🔥 News
 
-* *2025.02*: 🔥🔥 We release **KaSLA**, a novel framework proposing schema linking agent with knapsack optimization**.
+* *2025.02*: 🔥🔥 We release **KaSLA**, a novel framework proposing schema linking agent with knapsack optimization.
 * *2025.02*: 🔥🔥 Our graph-RAG survey **"A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models"** has been released. Take a look!
 * *2025.01*: 🔥🔥 We release **RV-Bench** to benchmark LLMs' genuine mathematical reasoning capabilities through **random variable questions**.
 * *2025.01*: 📢📢 I join the **PolyU** to start my Ph.D. journey!
@@ -45,7 +45,7 @@ My current research interests include **large language models and their applicat
      <summary>📰📰 History News</summary>
 
      2024.05: 🎉🎉 Our paper "Towards Better Question Generation in QA-based Event Extraction" is accepted by ACL 2024.<br>
-     
+   
      2024.05: 🎉🎉 Our paper "Knowledge-to-SQL: Enhancing SQL Generation with Data Expert LLM" is accepted by ACL 2024.<br>
 
    </details>
