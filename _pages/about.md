@@ -41,13 +41,14 @@ My current research interests include **large language models and their applicat
 
 - *2024.06*: 🔥🔥 Our text-to-SQL survey **"Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL"** has been released. Take a look!
 
-<details>
-  <summary>📰📰 History News</summary>
+  <details>
+    <summary>📰📰 History News</summary>
 
-  - *2024.05*: 🎉🎉 Our paper **"Towards Better Question Generation in QA-based Event Extraction"** is accepted by ACL 2024.
-  - *2024.05*: 🎉🎉 Our paper **"Knowledge-to-SQL: Enhancing SQL Generation with Data Expert LLM"** is accepted by ACL 2024.
+    - *2024.05*: 🎉🎉 Our paper **"Towards Better Question Generation in QA-based Event Extraction"** is accepted by ACL 2024.
+    
+    - *2024.05*: 🎉🎉 Our paper **"Knowledge-to-SQL: Enhancing SQL Generation with Data Expert LLM"** is accepted by ACL 2024.
 
-</details>
+  </details>
 
 # 📝 Publications 
 
