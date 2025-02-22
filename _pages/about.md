@@ -26,6 +26,7 @@ My current research interests include **large language models and their applicat
 
 # 🔥 News
 
+* *2024.09*: 📖📖 Invited as the reviewer for **ARR 2025 February (ACL 2025)**.
 * *2025.02*: 🔥🔥 We release **KaSLA**, a novel framework improving schema linking using **Knapsack Optimization**.
 * *2025.02*: 🔥🔥 Our graph-RAG survey **"A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models"** has been released. Take a look!
 * *2025.01*: 🔥🔥 We release **RV-Bench** to benchmark LLMs' genuine mathematical reasoning capabilities through **random variable questions**.
@@ -37,12 +38,12 @@ My current research interests include **large language models and their applicat
 
 - *2024.08*: 📖📖 Invited as the reviewer for **IEEE TKDE** since Aug. 2024.
 
-- *2024.07*: 📢📢 My thesis **"Learning with Database's Preference in Text-to-SQL for Large Language Models"** was awarded as Outstanding Undergraduate Thesis.
-
 - *2024.06*: 🔥🔥 Our text-to-SQL survey **"Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL"** has been released. Take a look!
 
    <details>
      <summary>📰📰 History News</summary>
+
+     2024.07: 📢📢 My thesis "Learning with Database's Preference in Text-to-SQL for Large Language Models" was awarded as Outstanding Undergraduate Thesis.<br>
 
      2024.05: 🎉🎉 Our paper "Towards Better Question Generation in QA-based Event Extraction" is accepted by ACL 2024.<br>
    
