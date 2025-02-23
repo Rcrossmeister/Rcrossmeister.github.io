@@ -26,7 +26,7 @@ My current research interests include **large language models and their applicat
 
 # 🔥 News
 
-* *2024.09*: 📖📖 Invited as the reviewer for **ARR 2025 February (ACL 2025)**.
+* *2025.02*: 📖📖 Invited as the reviewer for **ARR 2025 February (ACL 2025)**.
 * *2025.02*: 🔥🔥 We release **KaSLA**, a novel framework improving schema linking using **Knapsack Optimization**.
 * *2025.02*: 🔥🔥 Our graph-RAG survey **"A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models"** has been released. Take a look!
 * *2025.01*: 🔥🔥 We release **RV-Bench** to benchmark LLMs' genuine mathematical reasoning capabilities through **random variable questions**.
